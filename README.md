@@ -11,4 +11,4 @@ You can reproduce the results of the article with the script his_main.py
 * To get scatter plots, run cell 5.
 
 # Information about trained models
-The nnU-Net was used as segmentation framework for this project (https://github.com/MIC-DKFZ/nnUNet). The trained models and JSON files related to its training are stored in the folder segmentation_models.
+The nnU-Net was used as segmentation framework for this project (https://github.com/MIC-DKFZ/nnUNet). The trained models and JSON files related to its training are stored in the folder "training details".
